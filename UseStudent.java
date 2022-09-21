@@ -5,6 +5,7 @@ public class UseStudent {
 		
 		Student s1 = new Student("Pugazh", 20, "Male",123,91,"BCA");
 		Student s2 = new Student("Pugazh", 20, "Male",123,91,"BCA");
+		Student s3 = new Student("Pugazh", 20, "Male",123,91,"BCA");
 		
 		if(s1.equals(s2)) {
 			System.out.println("Both the objects are same");
